@@ -1,0 +1,37 @@
+{
+  "name": "teste-impar-frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@coreui/react": "^4.3.0",
+    "@types/jest": "^28.1.6",
+    "@types/node": "^18.0.4",
+    "axios": "^0.27.2",
+    "bootstrap": "4.6.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.4.0",
+    "react-canvas-draw": "^1.2.1",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.4.0",
+    "reflexy": "^3.41.8",
+    "styled-components": "^5.3.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.15",
+    "@types/react-dom": "^18.0.6",
+    "@types/styled-components": "^5.1.25",
+    "@vitejs/plugin-react": "^2.0.0",
+    "typescript": "^4.7.4",
+    "vite": "^3.0.0"
+  },
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
